@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+DerivedData/
+framer.xcodeproj/
+framer/framer.1
